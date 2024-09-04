@@ -2,20 +2,22 @@ body{
     margin-top: 20px;
     padding-left: 100px;
     padding-right: 100px;
-    background-color: rgb(214, 199, 180);
+    background-color:white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 article {
-    background-color: rgb(216, 216, 200);
+    background-color: whitesmoke;
     padding: 15px;
     margin-bottom: 25px;
     border-radius: 10px;
 }
 
+article:hover {
+    box-shadow: 0px 6px 8px;
+}
 
-
-button {
+.button {
     background-color: rgb(61, 120, 222);
     color: white;
     border: none;
@@ -25,6 +27,6 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.button:hover {
     background-color: rgb(148, 201, 247);
 }
