@@ -1,0 +1,18 @@
+body{
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(214, 199, 180);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+article {
+    background-color: rgb(216, 216, 200);
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+h1 {
+    
+}
